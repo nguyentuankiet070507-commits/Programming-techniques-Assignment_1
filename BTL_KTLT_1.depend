@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1776603496 source:d:\nguyen tuan kiet\initial\initial\main.cpp
+	"water_seven.h"
+
+1776476796 d:\nguyen tuan kiet\initial\initial\water_seven.h
+	"main.h"
+
+1770026405 d:\nguyen tuan kiet\initial\initial\main.h
+	<iostream>
+	<iomanip>
+	<cmath>
+	<cstring>
+	<climits>
+	<string>
+	<fstream>
+	<sstream>
+
+1776610881 source:d:\nguyen tuan kiet\initial\initial\water_seven.cpp
+	"water_seven.h"
+
